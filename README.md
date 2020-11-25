@@ -24,3 +24,29 @@ I'm working on a few posts / projects right now that require a variety of test v
 - [Pexels.com: Videos](https://www.pexels.com/videos/)
 - [Webm Project: libwebm Test Data](https://github.com/webmproject/libwebm/tree/master/testing/testdata)
 	- As name would imply, these test files are specifically of the Webm format
+- MDN Learning Area: [Multimedia and Embedding](https://github.com/mdn/learning-area/tree/master/html/multimedia-and-embedding/video-and-audio-content)
+	- This is the source behind docs pages like [this one](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+- MDN Interactive Example: [live-examples/media](https://github.com/mdn/interactive-examples/tree/master/live-examples/media)
+	- Media, for example, [this page](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+
+## Individual Test Files
+### WEBM
+<details>
+	<summary>VP9 / Video ONLY</summary>
+
+- https://raw.githubusercontent.com/web-platform-tests/wpt/master/media-source/webm/test-vp9.webm
+- https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/Wikipedia_logo_puzzle_globe_spins_horizontally_and_vertically%2C_revealing_the_contents_of_all_of_its_puzzle_pieces_%284K_resolution%29_%28VP9%29.webm/Wikipedia_logo_puzzle_globe_spins_horizontally_and_vertically%2C_revealing_the_contents_of_all_of_its_puzzle_pieces_%284K_resolution%29_%28VP9%29.webm.120p.vp9.webm
+</details>
+
+<details>
+	<summary>VP8/Vorbis</summary>
+
+- https://mdn.github.io/learning-area/html/multimedia-and-embedding/video-and-audio-content/rabbit320.webm
+- https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/Schlossbergbahn.webm/Schlossbergbahn.webm.160p.webm
+- https://upload.wikimedia.org/wikipedia/commons/transcoded/2/22/Volcano_Lava_Sample.webm/Volcano_Lava_Sample.webm.160p.webm
+- https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm
+- https://www.w3schools.com/tags/mov_bbb.webm
+- http://dl5.webmfiles.org/big-buck-bunny_trailer.webm
+- https://storage.googleapis.com/web-dev-assets/video-and-source-tags/chrome.webm
+- https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f5/STB_Stuttgart_F%C3%B6hrich_U6_Line_Entering_Station_VIDEO.webm/STB_Stuttgart_F%C3%B6hrich_U6_Line_Entering_Station_VIDEO.webm.160p.webm
+</details>
